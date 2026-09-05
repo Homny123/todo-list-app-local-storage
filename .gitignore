@@ -1,0 +1,24 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.aar
+*.ap_
+*.dex
+
+# Local configuration file
+local.properties
+
+# Android Studio specific
+.idea/
+*.iml
+.externalNativeBuild
+.cxx/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Dependencies
+*.lock
+.gradle/wrapper/
